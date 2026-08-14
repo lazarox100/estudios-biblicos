@@ -1,119 +1,87 @@
 ---
-tipo: moc
-proyecto: Artículo_Biblia
-estado: En_Progreso
+title: Estudios y Curiosidades Bíblicas
+description: Un espacio dedicado al estudio de la Biblia, sus lenguas, historia, contexto, curiosidades y temas relacionados.
+author: Daniel Andrés Martínez Robalino
+date: 2026-08-14
+draft: false
+enableToc: false
 tags:
-  - teología
-  - investigación
+  - inicio
+  - biblia
+  - estudios-biblicos
+share: true
+id: index
 ---
-# 01 - MOC - Articulo_Mitos_y_Tradiciones_Biblicas.md
+# index
+<div style="text-align: center; margin: 2.5rem 0 2rem 0;">
 
-# Lo que la Biblia dice, lo que permite interpretar y lo que añadió la tradición
-## Análisis de expresiones, personajes, imágenes y creencias atribuidas al texto bíblico
+# 📖 Estudios y Curiosidades Bíblicas
 
-### Introducción
-Muchas ideas conocidas como «bíblicas» no aparecen exactamente de esa manera en las Escrituras. Algunas proceden de traducciones antiguas; otras, de interpretaciones teológicas legítimas; y otras fueron incorporadas por tradiciones apócrifas, obras artísticas, sermones, literatura o costumbres populares.
+</div>
 
-Que una palabra no aparezca literalmente en la Biblia no significa que la doctrina expresada por esa palabra sea falsa. Términos como «Trinidad», por ejemplo, intentan sintetizar diversas afirmaciones bíblicas. Por eso, este documento no busca desacreditar doctrinas cristianas, sino distinguir con precisión entre tres niveles:
+> [!quote] Bienvenido
+> Este sitio está destinado a **compartir conocimiento sobre estudios bíblicos, curiosidades, historia, lenguas bíblicas y otros temas relacionados**.
+>
+> La intención es acercarnos a los textos con interés por su **contexto histórico, cultural y lingüístico**, distinguiendo, cuando sea necesario, entre lo que dice el texto, sus posibles interpretaciones y las tradiciones desarrolladas posteriormente.
 
-1. Lo que el texto bíblico afirma expresamente.
-2. Lo que puede deducirse o interpretarse a partir de varios textos.
-3. Lo que fue añadido o desarrollado posteriormente por la tradición, el arte o la literatura.
+## 🧭 ¿Qué encontrarás aquí?
 
----
+### 📜 Estudios bíblicos
+Análisis de pasajes, personajes, libros y temas de las Escrituras, procurando observar su contexto literario e histórico antes de extraer conclusiones.
 
-## I. Palabras y expresiones que se consideran bíblicas
+### 🔎 Curiosidades bíblicas
+Palabras, expresiones, datos y detalles que muchas veces pasan inadvertidos en una lectura habitual y que pueden enriquecer nuestra comprensión del texto.
 
-![[Anticristo no aparece en el libro de Apocalipsis]]
+### 🏺 Historia y contexto
+El mundo en el que surgieron los textos bíblicos: pueblos, culturas, acontecimientos, costumbres, geografía y desarrollo histórico del judaísmo y del cristianismo.
 
-![[La palabra Trinidad no aparece en la_Biblia]]
+### 🔤 Lenguas y términos bíblicos
+Estudio de palabras del **hebreo, arameo y griego**, considerando su campo semántico, contexto y problemas de traducción.
 
-![[El arrebatamiento bíblico no equivale necesariamente al rapto pretribulacional]]
+### ⛪ Historia del cristianismo
+Notas y estudios sobre el cristianismo primitivo, los Padres de la Iglesia, concilios, movimientos, personajes y acontecimientos que marcaron su desarrollo histórico.
 
-![[Maranatha una expresión aramea conservada en transliteración]]
-
-![[«Jehová» no es la forma original del tetragrámaton, y «Yahvé» es una reconstrucción, no una certeza]]
----
-
-## II. Personajes cuyos nombres o rasgos fueron completados por la tradición
-
-![[La Biblia no habla de «tres reyes magos»]]
-
-![[El llamado «buen ladrón» no es nombrado como Dimas en los evangelios]]
-
-![[Saulo no recibió el nombre Pablo durante su conversión]]
-
-![[María Magdalena no es identificada como prostituta]]
-
-![[No puede afirmarse de forma absoluta quién cortó el cabello de Sansón]]
-
-![[El diablo rojo, con cuernos y tridente, no procede de una descripción bíblica]]
+### 🎨 Arte, cultura y otros temas relacionados
+Reflexiones y materiales en los que la Biblia, la historia, la cultura y las artes pueden encontrarse y dialogar desde distintas perspectivas.
 
 ---
 
-## III. Objetos, lugares y escenas completados por la tradición
+## 🌿 Un jardín digital en crecimiento
 
-![[Génesis no identifica el fruto prohibido como una manzana]]
+Este sitio no pretende ser una enciclopedia cerrada. Es un **espacio de estudio en constante crecimiento**, donde las notas pueden ampliarse, corregirse y conectarse entre sí a medida que aparecen nuevas preguntas, fuentes y hallazgos.
 
-![[Génesis no llama Satanás a la serpiente ni utiliza «Lucifer» como nombre propio del diablo]]
+La estructura sigue, en buena medida, la filosofía de un **jardín digital** y del método **Zettelkasten**: una idea puede conducir a otra, y cada enlace puede abrir un nuevo camino de estudio.
 
-![[La Biblia habla de un gran pez y no identifica una ballena]]
-
-![[El arca no llevaba simplemente «dos de cada animal» sin distinción]]
-
-![[La Biblia no fija el 25 de diciembre ni describe un establo de madera]]
-
-![[Los magos no aparecen junto al pesebre la noche del nacimiento]]
-
-![[«No había lugar en el mesón» puede no referirse a una posada comercial]]
-
-![[Mar de Juncos vs Mar Rojo]]
-
-![[Génesis habla de «los montes de Ararat», no de un pico específico]]
-
-![[Pedro no es descrito como portero literal del cielo]]
-
-![[La Biblia no presenta a los demonios como administradores del infierno]]
+> [!info] Criterio de estudio
+> Siempre que sea posible, se procurará diferenciar entre:
+> - **texto bíblico** y traducción;
+> - **contexto histórico** e interpretación posterior;
+> - **datos documentados** e hipótesis;
+> - **consenso académico** y posiciones debatidas;
+> - **tradición religiosa** y evidencia textual o histórica.
 
 ---
 
-## IV. Cifras y símbolos interpretados como datos literales
+## 🧑 Sobre mi
+Mi nombre es **Daniel Martínez **. Soy originario de la ciudad de **Puyo, ubicada en la Amazonía ecuatoriana**.
 
-![[La Biblia no afirma directamente que un tercio de todos los ángeles siguió a Satanás]]
+Soy una persona agradecida con **Dios por su misericordia y su infinito amor**, y por haberme permitido cultivar y combinar a lo largo del tiempo varias áreas que me apasionan, entre ellas la **historia, la investigación, la teología, las artes y el conocimiento en general**.
 
-![[La lectura mayoritaria es 666, aunque existe la variante 616]]
+## ✉️ Contacto
 
-![[Diez Mandamientos o Diez Palabras]]
+Si tienes alguna **sugerencia, corrección, pregunta o tema** que consideres interesante investigar, puedes escribirme a:
 
----
+### [mindtec.ec@gmail.com](mailto:mindtec.ec@gmail.com)
 
-## V. Frases populares atribuidas a la Biblia
-
-![[«Dios les da sus peores batallas a sus mejores soldados»]]
-
-![[«Dios aprieta, pero no ahoga»]]
-
-![[«Líbrame del agua mansa, que de la brava me libro yo»]]
-
-![[«Ni una hoja de un árbol se mueve sin la voluntad de Dios»]]
-
-![[«El dinero es la raíz de todos los males»]]
-
-![[«Ayúdate, que yo te ayudaré»]]
-
-![[«El amor todo lo sufre» como poema romántico para bodas]]
-
-![[«La voz del pueblo es la voz de Dios» (_Vox populi, vox Dei_)]]
+Toda observación bien fundamentada puede contribuir a mejorar, corregir y ampliar este espacio de estudio.
 
 ---
 
+<div style="text-align: center; margin-top: 3rem; opacity: 0.75;">
 
-## VI. Una tensión narrativa dentro del Nuevo Testamento
+**Daniel Andrés Martínez Robalino**  
+Puyo, Ecuador · Amazonía ecuatoriana
 
-![[La muerte de Judas se presenta en dos relatos diferentes y difíciles de armonizar]]
+*Estudiar el texto, comprender su contexto y seguir haciendo preguntas.*
 
----
-
-## VII. Oficios y términos traducidos de manera restrictiva
-
-![[La Biblia llama a Jesús _téktōn_, término que puede ser más amplio que «carpintero»]]
+</div>
