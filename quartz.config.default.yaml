@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Mitos y Tradiciones Bíblicas
+  pageTitle: Estudios y Curiosidades Bíblicas
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: lazarox100.github.io/quartz
+  locale: es-ES
+  baseUrl: lazarox100.github.io/estudios-biblicos
   ignorePatterns:
     - private
     - templates
