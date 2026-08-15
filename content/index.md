@@ -12,7 +12,6 @@ tags:
 share: true
 id: index
 ---
-# index
 <div style="text-align: center; margin: 2.5rem 0 2rem 0;">
 
 # 📖 Estudios y Curiosidades Bíblicas
