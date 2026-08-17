@@ -55,12 +55,3 @@ Este MOC reúne notas atómicas de palabras y términos bíblicos. Cada término
 El significado de una palabra bíblica **no debe determinarse únicamente por su etimología ni por todos los significados posibles que aparezcan en un diccionario**. El sentido concreto depende de su uso dentro de una oración, libro, autor, época y contexto histórico-cultural.
 
 Al estudiar términos hebreos, arameos o griegos conviene consultar **léxicos especializados, concordancias y el uso de la palabra en otros textos contemporáneos**, evitando la *falacia de la raíz*: suponer que el significado etimológico de una palabra necesariamente está presente cada vez que esta se utiliza.
-
-## Posibles MOC derivados
-- [[MOC - Nombres de Dios]]
-- [[MOC - Cristología]]
-- [[MOC - Reino y salvación]]
-- [[MOC - Muerte y juicio]]
-- [[MOC - Iglesia y discipulado]]
-- [[MOC - Hebreo bíblico]]
-- [[MOC - Griego bíblico]]
