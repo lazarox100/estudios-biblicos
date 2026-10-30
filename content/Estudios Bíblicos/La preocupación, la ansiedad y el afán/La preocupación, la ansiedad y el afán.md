@@ -46,7 +46,7 @@ pasajes_clave:
   - Filipenses 4:4-9
   - 1 Pedro 5:6-7
 ---
-
+**
 # La preocupación, la ansiedad y el afán
 
 > [!abstract] Tesis general
